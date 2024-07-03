@@ -4,10 +4,10 @@
 In the context of the rapidly evolving financial sector, banks face significant challenges in accurately assessing the creditworthiness of loan applicants, leading to potential risks and financial losses. The issue lies in the reliance on traditional methods, which may not effectively capture the nuanced factors influencing a borrower’s ability to repay loans. This is particularly relevant as banks strive to balance growth with risk management, ensuring they extend credit to reliable customers while minimizing defaults. The objective of this analysis is to employ advanced data analytics techniques to evaluate and predict loan repayment behaviors, enabling banks to make more informed, data-driven decisions. By incorporating variables such as credit history, income levels, employment status, and demographic information, the goal is to improve the accuracy of loan approval processes, reduce default rates, and enhance overall financial stability.
 
 ### Objective & constraint:
-**Business Objective:**
+  - **Business Objective:**
 Enhance loan approval accuracy: To accurately assess and predict the creditworthiness of loan applicants using advanced data analytics techniques, thereby reducing default rates and enhancing the bank’s financial stability.
 
-**Business Constraint:**
+  - **Business Constraint:**
 Regulatory compliance: Ensure the analysis complies with regulatory requirements and maintains high standards of data security and privacy while managing the complexity of integrating diverse data sources.
 
 ### Key Stakeholders: 
