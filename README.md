@@ -3,7 +3,7 @@
 ## Problem Statement:
 In the context of the rapidly evolving financial sector, banks face significant challenges in accurately assessing the creditworthiness of loan applicants, leading to potential risks and financial losses. The issue lies in the reliance on traditional methods, which may not effectively capture the nuanced factors influencing a borrower’s ability to repay loans. This is particularly relevant as banks strive to balance growth with risk management, ensuring they extend credit to reliable customers while minimizing defaults. The objective of this analysis is to employ advanced data analytics techniques to evaluate and predict loan repayment behaviors, enabling banks to make more informed, data-driven decisions. By incorporating variables such as credit history, income levels, employment status, and demographic information, the goal is to improve the accuracy of loan approval processes, reduce default rates, and enhance overall financial stability.
 
-### **Key Stakeholders: **
+### Key Stakeholders: 
 1. Bank Management: Interested in overall financial performance and risk management.Uses analysis to shape lending policies and strategies.
 2. Loan Officers: Directly involved in the loan approval process.Benefits from improved decision-making tools and insights.
 3. Risk Management Team: Focuses on minimizing financial risk and defaults.Utilizes analysis to identify high-risk applicants and develop mitigation strategies.
