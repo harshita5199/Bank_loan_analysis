@@ -26,6 +26,9 @@ Regulatory compliance: Ensure the analysis complies with regulatory requirements
 6. Reporting and Insights: Provide narrative summaries and actionable recommendations. Automate report updates and maintain relevance.
 7. Collaboration and Sharing: Publish reports to the Power BI service for broader access. Share insights with stakeholders and establish a feedback loop for continuous improvement.
 
+<img width="1060" alt="Screenshot 2024-06-25 at 11 23 02 AM" src="https://github.com/harshita5199/Bank_loan_analysis/assets/170127833/71d6256f-459c-46ab-8477-28fbe1eabe88">
+
+
 ## Insights:
 1: How does the ratio of good loans to bad loans compare, and what does this indicate about loan quality and debt-to-income ratios?
   - Good loans significantly outnumber bad loans, indicating overall positive loan quality, but the ratio is not ideal. The debt-to-income ratio of charged-off loan applicants is greater than that of fully paid applicants.
@@ -65,6 +68,9 @@ Regulatory compliance: Ensure the analysis complies with regulatory requirements
 
 13: What is the trend in homeownership loan amounts received in California?
   - In California, rent is the highest, followed by mortgages in terms of total loan amounts received.
+
+    
+<img width="1060" alt="Screenshot 2024-06-25 at 11 22 34 AM (1)" src="https://github.com/harshita5199/Bank_loan_analysis/assets/170127833/25e5ee9a-81be-4493-a586-c8df3e9bb27e">
 
 
 ## Conclusion:
